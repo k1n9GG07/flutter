@@ -9,6 +9,3 @@
 .vscode/
 .idea/
 *.iml
-
-# Build artifacts
-build/
