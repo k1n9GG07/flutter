@@ -1,0 +1,14 @@
+# https://dart.dev/guides/libraries/private-files
+.dart_tool/
+
+# Flutter-intermediate
+.pub-cache/
+.pub/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Build artifacts
+build/
